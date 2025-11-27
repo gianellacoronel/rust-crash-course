@@ -13,6 +13,7 @@ fn add(x: u32, y: u32) -> u32{
     x + y //here we don't use "return" and also remove the semicolon, but it still returns that value
 }
 
+//example of a function that do not return nothing (without ->)
 fn print(s: String){
     println!("{s}{s}{s}{s}{s}");
 }
