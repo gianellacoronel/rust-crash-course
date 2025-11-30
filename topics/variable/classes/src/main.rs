@@ -40,4 +40,7 @@ fn main() {
     // index 1 : x + x
     println!("{0} + {0} = {1}", x, x + x);
 
+    // debug
+    println!("DEBUG: x {:?}", x);
+    println!("DEBUG: x {:#?}", x);
 }
