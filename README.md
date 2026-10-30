@@ -99,6 +99,9 @@ Please refer to this for an in-depth explanation of the content:
 - [Thread vs `async` / `await`](./topics/async_await/README.md)
 - [`join!` and `select!` macros](./topics/join_select/README.md)
 
+# App
+- [Merkle tree algorithms](./topics/merkle/README.md)
+
 # Resources
 
 - [Rust](https://www.rust-lang.org/)
